@@ -1,2 +1,2 @@
-# lanchain
+# langchain
 langchain tutorials
