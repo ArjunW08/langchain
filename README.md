@@ -1,10 +1,6 @@
 # langchain
 langchain tutorials
 
-
-# lanchain
-langchain tutorials
-
 ## Intro
 LangChain is a opensource framework for developing applications powered by large language model.
 
