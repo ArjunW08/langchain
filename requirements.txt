@@ -22,7 +22,8 @@ sentence-transformers
 #Environment Variables
 python-dotenv
 
-#Machine Learning Utilities
+#Utilities
 scikit-learn
 numpy
 streamlit
+pydantic
