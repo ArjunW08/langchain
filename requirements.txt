@@ -28,3 +28,7 @@ numpy
 streamlit
 pydantic
 grandalf
+wikipedia
+chromadb
+pypdf
+faiss-cpu
